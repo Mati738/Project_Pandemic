@@ -418,6 +418,19 @@
      <string>Reset</string>
     </property>
    </widget>
+   <widget class="QLabel" name="label_10">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>40</y>
+      <width>47</width>
+      <height>13</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
    <zorder>label_8</zorder>
    <zorder>MAPKA</zorder>
    <zorder>start</zorder>
@@ -447,6 +460,7 @@
    <zorder>ButMuzyka</zorder>
    <zorder>ButMute</zorder>
    <zorder>ButReset</zorder>
+   <zorder>label_10</zorder>
   </widget>
   <widget class="QMenuBar" name="menuBar">
    <property name="geometry">
