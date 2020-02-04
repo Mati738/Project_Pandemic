@@ -1,1 +1,1 @@
-# Project_Pandemic
+# Plaga_gui
